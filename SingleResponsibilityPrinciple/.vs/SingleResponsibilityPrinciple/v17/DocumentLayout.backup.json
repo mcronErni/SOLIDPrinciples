@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\extcrmh\\source\\repos\\SingleResponsibilityPrinciple\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC02CCEE-6CCC-4686-A209-37D2BFF44DAB}|SingleResponsibilityPrinciple.csproj|c:\\users\\extcrmh\\source\\repos\\singleresponsibilityprinciple\\handlefiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC02CCEE-6CCC-4686-A209-37D2BFF44DAB}|SingleResponsibilityPrinciple.csproj|solutionrelative:handlefiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC02CCEE-6CCC-4686-A209-37D2BFF44DAB}|SingleResponsibilityPrinciple.csproj|C:\\Users\\extcrmh\\source\\repos\\SingleResponsibilityPrinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC02CCEE-6CCC-4686-A209-37D2BFF44DAB}|SingleResponsibilityPrinciple.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC02CCEE-6CCC-4686-A209-37D2BFF44DAB}|SingleResponsibilityPrinciple.csproj|c:\\users\\extcrmh\\source\\repos\\singleresponsibilityprinciple\\handlereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC02CCEE-6CCC-4686-A209-37D2BFF44DAB}|SingleResponsibilityPrinciple.csproj|solutionrelative:handlereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HandleFiles.cs",
+              "DocumentMoniker": "C:\\Users\\extcrmh\\source\\repos\\SingleResponsibilityPrinciple\\HandleFiles.cs",
+              "RelativeDocumentMoniker": "HandleFiles.cs",
+              "ToolTip": "C:\\Users\\extcrmh\\source\\repos\\SingleResponsibilityPrinciple\\HandleFiles.cs",
+              "RelativeToolTip": "HandleFiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T05:38:56.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HandleReport.cs",
+              "DocumentMoniker": "C:\\Users\\extcrmh\\source\\repos\\SingleResponsibilityPrinciple\\HandleReport.cs",
+              "RelativeDocumentMoniker": "HandleReport.cs",
+              "ToolTip": "C:\\Users\\extcrmh\\source\\repos\\SingleResponsibilityPrinciple\\HandleReport.cs",
+              "RelativeToolTip": "HandleReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T05:36:55.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\extcrmh\\source\\repos\\SingleResponsibilityPrinciple\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\extcrmh\\source\\repos\\SingleResponsibilityPrinciple\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T02:51:12.111Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

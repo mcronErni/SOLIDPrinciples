@@ -1,0 +1,7 @@
+C:\Users\extcrmh\source\repos\LiskovSubstitutionPrinciple\bin\Debug\LiskovSubstitutionPrinciple.exe.config
+C:\Users\extcrmh\source\repos\LiskovSubstitutionPrinciple\bin\Debug\LiskovSubstitutionPrinciple.exe
+C:\Users\extcrmh\source\repos\LiskovSubstitutionPrinciple\bin\Debug\LiskovSubstitutionPrinciple.pdb
+C:\Users\extcrmh\source\repos\LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.csproj.AssemblyReference.cache
+C:\Users\extcrmh\source\repos\LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\extcrmh\source\repos\LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.exe
+C:\Users\extcrmh\source\repos\LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.pdb

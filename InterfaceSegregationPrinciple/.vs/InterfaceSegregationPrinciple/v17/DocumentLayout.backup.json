@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\extcrmh\\source\\repos\\InterfaceSegregationPrinciple\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D80401A0-01AD-404C-AF8B-56D5AECFC2C3}|InterfaceSegregationPrinciple.csproj|c:\\users\\extcrmh\\source\\repos\\interfacesegregationprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80401A0-01AD-404C-AF8B-56D5AECFC2C3}|InterfaceSegregationPrinciple.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80401A0-01AD-404C-AF8B-56D5AECFC2C3}|InterfaceSegregationPrinciple.csproj|c:\\users\\extcrmh\\source\\repos\\interfacesegregationprinciple\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80401A0-01AD-404C-AF8B-56D5AECFC2C3}|InterfaceSegregationPrinciple.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80401A0-01AD-404C-AF8B-56D5AECFC2C3}|InterfaceSegregationPrinciple.csproj|c:\\users\\extcrmh\\source\\repos\\interfacesegregationprinciple\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80401A0-01AD-404C-AF8B-56D5AECFC2C3}|InterfaceSegregationPrinciple.csproj|solutionrelative:manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80401A0-01AD-404C-AF8B-56D5AECFC2C3}|InterfaceSegregationPrinciple.csproj|c:\\users\\extcrmh\\source\\repos\\interfacesegregationprinciple\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80401A0-01AD-404C-AF8B-56D5AECFC2C3}|InterfaceSegregationPrinciple.csproj|solutionrelative:admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80401A0-01AD-404C-AF8B-56D5AECFC2C3}|InterfaceSegregationPrinciple.csproj|c:\\users\\extcrmh\\source\\repos\\interfacesegregationprinciple\\imanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80401A0-01AD-404C-AF8B-56D5AECFC2C3}|InterfaceSegregationPrinciple.csproj|solutionrelative:imanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80401A0-01AD-404C-AF8B-56D5AECFC2C3}|InterfaceSegregationPrinciple.csproj|c:\\users\\extcrmh\\source\\repos\\interfacesegregationprinciple\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80401A0-01AD-404C-AF8B-56D5AECFC2C3}|InterfaceSegregationPrinciple.csproj|solutionrelative:iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80401A0-01AD-404C-AF8B-56D5AECFC2C3}|InterfaceSegregationPrinciple.csproj|c:\\users\\extcrmh\\source\\repos\\interfacesegregationprinciple\\iadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80401A0-01AD-404C-AF8B-56D5AECFC2C3}|InterfaceSegregationPrinciple.csproj|solutionrelative:iadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IManager.cs",
+              "DocumentMoniker": "C:\\Users\\extcrmh\\source\\repos\\InterfaceSegregationPrinciple\\IManager.cs",
+              "RelativeDocumentMoniker": "IManager.cs",
+              "ToolTip": "C:\\Users\\extcrmh\\source\\repos\\InterfaceSegregationPrinciple\\IManager.cs",
+              "RelativeToolTip": "IManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T05:50:42.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\extcrmh\\source\\repos\\InterfaceSegregationPrinciple\\IAdmin.cs",
+              "RelativeDocumentMoniker": "IAdmin.cs",
+              "ToolTip": "C:\\Users\\extcrmh\\source\\repos\\InterfaceSegregationPrinciple\\IAdmin.cs",
+              "RelativeToolTip": "IAdmin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T05:50:16.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\extcrmh\\source\\repos\\InterfaceSegregationPrinciple\\Admin.cs",
+              "RelativeDocumentMoniker": "Admin.cs",
+              "ToolTip": "C:\\Users\\extcrmh\\source\\repos\\InterfaceSegregationPrinciple\\Admin.cs",
+              "RelativeToolTip": "Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T05:48:15.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\extcrmh\\source\\repos\\InterfaceSegregationPrinciple\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "C:\\Users\\extcrmh\\source\\repos\\InterfaceSegregationPrinciple\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T05:48:00.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\extcrmh\\source\\repos\\InterfaceSegregationPrinciple\\IEmployee.cs",
+              "RelativeDocumentMoniker": "IEmployee.cs",
+              "ToolTip": "C:\\Users\\extcrmh\\source\\repos\\InterfaceSegregationPrinciple\\IEmployee.cs",
+              "RelativeToolTip": "IEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T05:47:34.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\extcrmh\\source\\repos\\InterfaceSegregationPrinciple\\Manager.cs",
+              "RelativeDocumentMoniker": "Manager.cs",
+              "ToolTip": "C:\\Users\\extcrmh\\source\\repos\\InterfaceSegregationPrinciple\\Manager.cs",
+              "RelativeToolTip": "Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T05:46:32.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\extcrmh\\source\\repos\\InterfaceSegregationPrinciple\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\extcrmh\\source\\repos\\InterfaceSegregationPrinciple\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T05:30:43.358Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

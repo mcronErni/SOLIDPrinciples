@@ -1,0 +1,7 @@
+C:\Users\extcrmh\source\repos\DependencyInversionPrinciple\bin\Debug\DependencyInversionPrinciple.exe.config
+C:\Users\extcrmh\source\repos\DependencyInversionPrinciple\bin\Debug\DependencyInversionPrinciple.exe
+C:\Users\extcrmh\source\repos\DependencyInversionPrinciple\bin\Debug\DependencyInversionPrinciple.pdb
+C:\Users\extcrmh\source\repos\DependencyInversionPrinciple\obj\Debug\DependencyInversionPrinciple.csproj.AssemblyReference.cache
+C:\Users\extcrmh\source\repos\DependencyInversionPrinciple\obj\Debug\DependencyInversionPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\extcrmh\source\repos\DependencyInversionPrinciple\obj\Debug\DependencyInversionPrinciple.exe
+C:\Users\extcrmh\source\repos\DependencyInversionPrinciple\obj\Debug\DependencyInversionPrinciple.pdb

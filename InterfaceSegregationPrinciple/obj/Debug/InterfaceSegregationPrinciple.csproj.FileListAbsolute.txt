@@ -1,0 +1,7 @@
+C:\Users\extcrmh\source\repos\InterfaceSegregationPrinciple\obj\Debug\InterfaceSegregationPrinciple.csproj.AssemblyReference.cache
+C:\Users\extcrmh\source\repos\InterfaceSegregationPrinciple\obj\Debug\InterfaceSegregationPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\extcrmh\source\repos\InterfaceSegregationPrinciple\bin\Debug\InterfaceSegregationPrinciple.exe.config
+C:\Users\extcrmh\source\repos\InterfaceSegregationPrinciple\bin\Debug\InterfaceSegregationPrinciple.exe
+C:\Users\extcrmh\source\repos\InterfaceSegregationPrinciple\bin\Debug\InterfaceSegregationPrinciple.pdb
+C:\Users\extcrmh\source\repos\InterfaceSegregationPrinciple\obj\Debug\InterfaceSegregationPrinciple.exe
+C:\Users\extcrmh\source\repos\InterfaceSegregationPrinciple\obj\Debug\InterfaceSegregationPrinciple.pdb
